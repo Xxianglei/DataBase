@@ -711,8 +711,8 @@ footer .icon-heart {
 }
 
 #wechat-qr:hover {
-	-webkit-transform: scale(1.4);
-	transform: scale(1.4)
+	-webkit-transform: scale(1.6);
+	transform: scale(1.6)
 }
 
 @-webkit-keyframes ani-heart {
